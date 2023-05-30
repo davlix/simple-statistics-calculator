@@ -39,6 +39,8 @@ Di terminal atau command prompt, jalankan perintah berikut untuk menginstal pust
 shell
 1. Copy code
 2. pip install statistics
+
+
 Perintah ini akan mengunduh dan menginstal pustaka statistika dari PyPI (Python Package Index).
 
 Setelah pustaka statistika terinstal, Anda dapat mengaksesnya dalam kode Python. Pastikan Anda telah mengimpor pustaka statistika di awal kode program, seperti yang ditunjukkan dalam kode di atas:
